@@ -6,6 +6,9 @@ A professional-grade digital lottery machine built with **Flutter**, specificall
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id1561300296)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/_BqroFk-y04/0.jpg)](https://www.youtube.com/watch?v=_BqroFk-y04)
+
 ## 🌟 Key Features
 - **75-Ball Optimized:** Specifically pre-configured for the standard 1-75 number range.
 - **Fair Random Selection:** Advanced logic ensures a completely unbiased draw for every ball.
